@@ -3,8 +3,8 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 The Diabetes Prediction project uses machine learning to analyze medical data and predict whether a person is at risk of diabetes. The model is trained on key health indicators such as Glucose level, BMI, Insulin, Blood Pressure, Skin Thickness, and Diabetes Pedigree Function to make accurate predictions.
 
-About this file diabetes[1].csv
-Information about dataset attributes -
+
+# Information about dataset attributes -
 
 1.Pregnancies: To express the Number of pregnancies
 
