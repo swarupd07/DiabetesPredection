@@ -29,8 +29,6 @@ Information about dataset attributes -
 1. Pandas                                     ( While orking on Data Frame)
 2. Numpy                                      ( While woring on input array)
 3. matplotlib.pyplot & seaborn                ( While plotion graph/plot )
-4. sklearn ( sklearn.preprocessing,           ( While preprocessing , model_selection , scoring)
-   sklearn.model_selection, sklearn.metrics,
-   svm )
+4. sklearn ( sklearn.preprocessing, sklearn.model_selection, sklearn.metrics, svm )  ( While preprocessing , model_selection , scoring)
 
    
